@@ -47,10 +47,10 @@ The `/packages` page now includes quick destination search, travel-style chips, 
 
 ### Contact details already configured
 
-- Phone: `8202930398` for calls.
-- WhatsApp: `+91 8202930398` (country code is included in the WhatsApp URL).
+- Phone: `1234567890` for calls.
+- WhatsApp: `+91 1234567890` (country code is included in the WhatsApp URL).
 - Email: `ramtravelingagency@gmail.com`
-- Instagram: `@_naman._124`
+- Instagram: `buildwith_shaurya`
 
 If the phone number is not an Indian number, update `PHONE_DIGITS` in `src/App.jsx`.
 
